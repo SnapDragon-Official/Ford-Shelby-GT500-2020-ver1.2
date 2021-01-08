@@ -1,0 +1,76 @@
+First of All i have to Thank each and every Patron for their continued support , without you guys creating new content would be near impossible for me. so a huge shout out to you all.
+please protect ur mods and don't distrubute them on public forums or closed chat social groups besides ur friends because that decrease a contet's value and takes away revenue from me which,
+i plan to use for purchasing 3d models and licenses for many softwares for future mods. thank you for understanding. 
+
+Mod Name: Ford Shelby GT 500 2020
+===================================================================================================
+Add on installtion instructions: FIVE M
+
+just paste the asset into ur resources folder on the server
+
+add entry: "start foxshelby" in ur server CFG file without quotes.
+	
+	Spawn code "foxshelby"
+	
+Enjoy :)    (something to remember always use exact meta fiels or lines as i post them for the mod to behave in game as intended. don't make custom add ons or folders right away, Try it my way first then u can modify metas.
+you will understand why when u follow my way.
+
+Add on Installation instructions: GTA 5
+======================================================================
+1) witht the help of Openiv software, paste the contents of Gta 5 installation files into this location:
+
+   Grand Theft Auto V\mods\update\x64\dlcpacks
+   
+it should look like this after pasting:  Grand Theft Auto V\mods\update\x64\dlcpacks\foxshelby\dlc.rpf
+
+2) go to this location and edit dlclist.xml file found in here: Grand Theft Auto V\update\update.rpf\common\data
+
+Add this line at the end of dlclist.xml file :  <Item>dlcpacks:/foxshelby/</Item>
+
+3) done ! now spawn the cars in game by these spwan codes:  "foxshelby"
+===================================================================
+
+Features of the Mod:
+========================
+HQ Interior, Doorsills, 
+HQ reflections.
+Ability to change wheels
+Hands on Steeringwheel  
+Mean engine sound.
+Reversing light down low in the bumper.
+Working Realistic Dials on Dash and windscreen! ;) (see last screenshot on patreon page)
+Correct Seat Position for FPV & Passenger
+lincese plate on the rear bumper
+Breakable Glass
+Bullet impacts and scratches present
+dirt mapped (partial)
+DRL lights 
+working tints
+left hand driver side color options as in real life.
+Indicators front and back working
+Deformations and animations present
+custom handling and audio Tag applied for Realistic engine sound.
+no livery or skin support (also available in next update)
+no support of color change on rims carbon fiber only! just like real life
+
+∏èPaint Options:  (Play around with these options and you will get the most amazing lookin car ever made!!!)
+
+PAINT:1 EXTERIOR BODYSHELL & brake hubs (stiches also follow primary color)
+PAINT:2 SEATS, STEERING WHEEL, REAR VIEW MIRRORS, BRAKE CALIPERS & DOOR SILLS & stripes
+=====================================
+
+changelog version 1.0
+license plates added
+engine header cover from shelby in the bonnet set up as extra_1
+
+changelog version 1.2
+Window tints implimented. lights glass doesn't get tinted.
+
+known bugs Beta version 1.2:
+if you find any more bugs please let me know and i shall be happy to fix them for you. use patreon mesage, facebook, email  or discord.
+
+Thank you for being my patron and showing patience while i work on multiple mods. please stay tuning for more awesome content from me. Have a good time! Don't be shy to contact!
+  
+  
+
+
